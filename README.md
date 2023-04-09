@@ -38,7 +38,7 @@ chmod 755 ~/mac-toolbar/*.sh
 ```
 ### CMD+Drag files to Finder Toolbar
 To add these files to your toolbar, press and hold Command, then drag the files to the correct position.
-/assets/drag_to_toolbar.gif
+!(/assets/drag_to_toolbar.gif)
 [Read More](https://support.apple.com/guide/mac-help/customize-the-finder-toolbar-on-mac-mchlp3011/mac)
 
 ## Optional
