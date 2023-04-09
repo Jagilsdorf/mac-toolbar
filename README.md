@@ -36,10 +36,22 @@ Open Terminal and enter the following:
 ```
 chmod 755 ~/mac-toolbar/*.sh
 ```
+## Change 'Open With' to Terminal
+- Select one of the .sh files
+- Right Click (CTRL+Click) and select 'Get Info'
+- Under the 'Open With' section, click 'Other...' from the drop-down
+![change_open_with_01](/assets/change_open_with_01.png "change_open_with_01")
+- Search for 'Terminal', select it, and click 'Add'
+![change_open_with_02](/assets/change_open_with_02.png "change_open_with_02")
+- Click 'Change All'
+![change_open_with_03](/assets/change_open_with_03.png "change_open_with_03")
+- Exit 'Get Info'
+
 ### CMD+Drag files to Finder Toolbar
-To add these files to your toolbar, press and hold Command, then drag the files to the correct position.
+To add these files to your toolbar, press and hold Command, then drag the files to the correct position.<br />
+Example:<br />
 ![cmd_drag](/assets/drag_to_toolbar.gif "CMD+Drag")
-[Read More](https://support.apple.com/guide/mac-help/customize-the-finder-toolbar-on-mac-mchlp3011/mac)
+[Read More on this topic](https://support.apple.com/guide/mac-help/customize-the-finder-toolbar-on-mac-mchlp3011/mac)
 
 ## Optional
 ### Change Owner
