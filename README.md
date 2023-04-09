@@ -40,11 +40,11 @@ chmod 755 ~/mac-toolbar/*.sh
 - Select one of the .sh files
 - Right Click (CTRL+Click) and select 'Get Info'
 - Under the 'Open With' section, click 'Other...' from the drop-down
-<br/><img width=100vw src="/assets/change_open_with_01.png" alt="change_open_with_01" />
+<br/><img width=200vw src="/assets/change_open_with_01.png" alt="change_open_with_01" />
 - Search for 'Terminal', select it, and click 'Add'
-<br/><img width=100vw src="/assets/change_open_with_02.png" alt="change_open_with_02" />
+<br/><img width=200vw src="/assets/change_open_with_02.png" alt="change_open_with_02" />
 - Click 'Change All'
-<br/><img width=100vw src="/assets/change_open_with_03.png" alt="change_open_with_03" />
+<br/><img width=200vw src="/assets/change_open_with_03.png" alt="change_open_with_03" />
 - Exit 'Get Info'
 
 ### CMD+Drag files to Finder Toolbar
