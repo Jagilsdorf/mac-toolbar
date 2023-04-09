@@ -1,14 +1,14 @@
 # mac-toolbar
 These are some shell scripts that I wrote for macOS users. There are currently 3 main files:
 - Restart_iCloud.sh
-  - This kills the 'bird' process. When iCloud is stuck uploading, killing this process usually solves the problem.
+  - This kills the 'bird' process. **When iCloud is stuck uploading, this solves it!**
   - Often, I will have iCloud stuck Uploading __ of __, with no progress for several hours. Killing the 'bird' process allows it to restart the upload. 
 - yt_mp3.sh
   - This uses yt-dlp to download an mp3 of YouTube from your clipboard.
-  - Once installed, simply copy the YouTube link, open the file, and it will begin downloading.
+  - Once installed, **simply copy the YouTube link, open the file, and it will begin downloading.**
 - yt_mp4.sh
   - This uses yt-dlp to download an mp4 of YouTube from your clipboard. If mp4 is unavailable, it will download alternative formats. You can change this in one of the last lines of code.
-  - Once installed, simply copy the YouTube link, open the file, and it will begin downloading.
+  - Once installed, **simply copy the YouTube link, open the file, and it will begin downloading.**
 
 # Dependencies
 - [Homebrew](https://brew.sh)
