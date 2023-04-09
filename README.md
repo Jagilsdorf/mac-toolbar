@@ -11,6 +11,7 @@ These are some shell scripts that I wrote for macOS users. There are currently 3
   - Once installed, **simply copy the YouTube link, open the file, and it will begin downloading.**
 
 # Dependencies
+Paste each of these into Terminal to install.
 - [Homebrew](https://brew.sh)
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
